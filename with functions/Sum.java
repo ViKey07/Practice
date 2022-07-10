@@ -12,5 +12,6 @@ class Sum{
         //System.out.print("Sum is : "+calSum(n, m));
         int ans = calSum(n, m);
         System.out.print(ans);
+        s.close();
     }
 }

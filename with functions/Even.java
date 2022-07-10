@@ -12,5 +12,6 @@ public class Even {
         Scanner s = new Scanner(System.in);
         int n = s.nextInt();
         System.out.print(checkEven(n));
+        s.close();
     }
 }

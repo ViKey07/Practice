@@ -13,6 +13,6 @@ public class Multiplication {
         
         //System.out.print(calProduct(a, b));
         calProduct(a, b);
-
+        s.close();
     }
 }
